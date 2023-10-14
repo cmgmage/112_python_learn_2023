@@ -4,4 +4,4 @@
 #上課網址
 https://meet.google.com/bio-hmps-bpr
 
-[20231014早上課程錄影]https://www.youtube.com/watch?v=YWTf5MMuTlY
+[20231014早上課程錄影](https://www.youtube.com/watch?v=YWTf5MMuTlY)
