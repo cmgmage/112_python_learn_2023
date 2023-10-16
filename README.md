@@ -1,9 +1,9 @@
 # 112_python_learn_2023
 _Python__大數據探勘
 
-線上互動式編輯筆記 Google Colab
-
 [GoogleMeeting上課網址](https://meet.google.com/bio-hmps-bpr)
+
+[線上互動式編輯筆記 Google Colab](https://colab.research.google.com/?hl=zh-tw)
 
 [徐國堂老師GitHub課程錄影連結](https://github.com/roberthsu2003/__112_python_chihlee__)
 
@@ -17,6 +17,8 @@ _Python__大數據探勘
 延伸模組:在Marketplace中搜尋延伸模組 "jupyter"做安裝(延伸模組套件(4)) 。安裝後，第一次建立一支新的.ipynb檔案，在視窗右上邊「選取核心」-> 「Python Environments...」->「Python 3.10.13」
 
 VC Codespace 將資料傳回Repo(Githu)設定 : 按「原始檔控制」圖示(VC畫面左側邊第3個圖示)，按「Commit」前要先輸入簡略的文字說明 -> 選「always」，總是上傳 -> 「Sync Change」，按＂ok＂，"Don't Show Show Again" -> "Yes"
+
+
 
 
 ## 課程錄影檔
