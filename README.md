@@ -26,3 +26,13 @@ _Python__大數據探勘
 [20231014早上課程錄影](https://www.youtube.com/watch?v=YWTf5MMuTlY)
 
 [20231014下午課程錄影](https://www.youtube.com/watch?v=ywgZoFSFy6o)
+
+[20231021早上課程錄影-1](https://youtube.com/live/mTQnQarFk0c)
+
+[20231021早上課程錄影-2](https://youtube.com/live/_D8jTDrcVkk)
+
+[20231021下午課程錄影](https://youtube.com/live/xilBp4OW_S4)
+
+[20231028早上課程錄影](https://youtube.com/live/OmaI3Lk14xs)
+
+[20231028下午課程錄影](https://youtube.com/live/bPO4ogiVKmE)
