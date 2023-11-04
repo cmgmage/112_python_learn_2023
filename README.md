@@ -37,11 +37,6 @@ pip 套件管理程式->pip install PyInputPlus   查詢:pip list
 
 
 
-
-
-
-
-
 ## 課程錄影檔
 
 [20231014早上課程錄影](https://www.youtube.com/watch?v=YWTf5MMuTlY)
