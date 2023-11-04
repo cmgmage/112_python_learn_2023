@@ -21,12 +21,14 @@ _Python__大數據探勘
 
 ### 檔案同時在repo和codespace修改要commit會出現錯誤，可在終端機執行命令
 1) git push --force 強迫codespace的上傳，取消repo的任何修改下傳
+
 2) git config pull.rebase false 下載repo和上傳codespace的檔案修改都保留
 
 ### VS Code
 設定->命令選擇區->Configure Display Language->繁體
 設定->AutoSave->afterDelay
 最左下腳藍色(開啟遠端視窗)->GitHub Codespace->允許->Google Chrome->Codespace->Authorize Visual Studio Code(綠色按鈕)->Connect to Codespace...
+
 Docker Desktop安裝(模擬Codespace在個人電腦):WSL:可以在Windows下創建Linux虛擬系統->新增開發者容器(Docker要先開啟才可新增)->新增開發人員容器
 
 
