@@ -31,6 +31,11 @@ _Python__大數據探勘
 
 Docker Desktop安裝(模擬Codespace在個人電腦):WSL:可以在Windows下創建Linux虛擬系統->新增開發者容器(Docker要先開啟才可新增)->新增開發人員容器
 
+### 免費的Python模組 Pypi
+PyInputPlus模組
+pip 套件管理程式->pip install PyInputPlus   查詢:pip list
+
+
 
 
 
