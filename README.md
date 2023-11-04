@@ -24,7 +24,7 @@ _Python__大數據探勘
 
 2) git config pull.rebase false 下載repo和上傳codespace的檔案修改都保留
 
-### VS Code
+### Visual Studio Code連結GitHub
 設定->命令選擇區->Configure Display Language->繁體
 設定->AutoSave->afterDelay
 最左下腳藍色(開啟遠端視窗)->GitHub Codespace->允許->Google Chrome->Codespace->Authorize Visual Studio Code(綠色按鈕)->Connect to Codespace...
