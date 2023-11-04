@@ -35,7 +35,8 @@ Docker Desktop安裝(模擬Codespace在個人電腦):WSL:可以在Windows下創�
 PyInputPlus模組
 pip 套件管理程式->pip install PyInputPlus   查詢:pip list
 
-
+### 在Visual Studio Code專案中一次安裝所需要的外部模組
+建立 requirements.txt，將要安裝的外部模組名稱列在檔案內容，透過執行命令 pip install -r requirements.txt 一次性安裝
 
 ## 課程錄影檔
 
