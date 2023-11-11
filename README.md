@@ -7,6 +7,8 @@ _Python__大數據探勘
 
 [徐國堂老師GitHub課程錄影連結](https://github.com/roberthsu2003/__112_python_chihlee__)
 
+### 解析jason格式 online jason viewer
+
 ### GitHub Codespaces : Visual Studio Code Python環境設定
 1) 畫面左下角「Codespaces:stunning succotash」-> "Add Dev Container Configuration files..." ->
 "Create a new configuration..." -> "Python 3 Devcontainers..." -> "3.10-bullseye" ->
@@ -37,6 +39,13 @@ pip 套件管理程式->pip install PyInputPlus   查詢:pip list
 
 ### 在Visual Studio Code專案中一次安裝所需要的外部模組
 建立 requirements.txt，將要安裝的外部模組名稱列在檔案內容，透過執行命令 pip install -r requirements.txt 一次性安裝
+
+
+### Python 資料結構
+tuple() 唯讀，無法修改元素，暫時性
+list []串列 可編輯元素
+dict
+set 對應資料
 
 ## 課程錄影檔
 
