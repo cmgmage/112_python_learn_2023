@@ -53,3 +53,8 @@ pip 套件管理程式->pip install PyInputPlus   查詢:pip list
 [20231028早上課程錄影](https://youtube.com/live/OmaI3Lk14xs)
 
 [20231028下午課程錄影](https://youtube.com/live/bPO4ogiVKmE)
+
+[20231104早上課程錄影](https://youtube.com/live/FNED5Xou-HU)
+
+[20231104下午課程錄影](https://youtube.com/live/6bIXI2lhDu0)
+
