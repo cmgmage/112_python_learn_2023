@@ -7,7 +7,9 @@ _Python__大數據探勘
 
 [徐國堂老師GitHub課程錄影連結](https://github.com/roberthsu2003/__112_python_chihlee__)
 
-### 解析jason格式 online jason viewer
+[解析jason格式 online jason viewer](https://jsoneditoronline.org/)
+
+[pandas線上說明文件](https://pandas.pydata.org/docs/reference/index.html#api)
 
 ### GitHub Codespaces : Visual Studio Code Python環境設定
 1) 畫面左下角「Codespaces:stunning succotash」-> "Add Dev Container Configuration files..." ->
