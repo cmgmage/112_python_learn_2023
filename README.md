@@ -51,9 +51,9 @@ set 對應資料
 
 ## 課程錄影檔
 
-[20231014早上課程錄影](https://www.youtube.com/watch?v=YWTf5MMuTlY)
+[20231014早上課程錄影](https://youtube.com/live/YWTf5MMuTlY)
 
-[20231014下午課程錄影](https://www.youtube.com/watch?v=ywgZoFSFy6o)
+[20231014下午課程錄影](https://youtube.com/live/ywgZoFSFy6o)
 
 [20231021早上課程錄影-1](https://youtube.com/live/mTQnQarFk0c)
 
