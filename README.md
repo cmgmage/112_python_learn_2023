@@ -13,7 +13,7 @@ _Python__大數據探勘
 
 [render](https://dashboard.render.com/d/dpg-clc5343mot1c73dd7ia0-a/info)
 
-[pgAdmin4 安裝程式](https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v7.8/windows/pgadmin4-7.8-x64.exe)
+[pgAdmin4 免費資料庫安裝程式](https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v7.8/windows/pgadmin4-7.8-x64.exe)
 
 ### GitHub Codespaces : Visual Studio Code Python環境設定
 1) 畫面左下角「Codespaces:stunning succotash」-> "Add Dev Container Configuration files..." ->
