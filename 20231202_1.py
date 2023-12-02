@@ -4,7 +4,7 @@ from openpyxl import Workbook,load_workbook
 import pyinputplus as pyip
 from pandas.io.formats.excel import ExcelFormatter
 from pandas.io.excel._base import ExcelWriter
-import os
+import os,sys
 
 def generate_class_scores(num_classes:int,file_name:str) -> None:
     '''
@@ -85,12 +85,10 @@ if __name__ == "__main__":
     file_name = pyip.inputFilename("請輸入存檔名稱(xlsx):")
     if os.path.exists(file_name):
         is_covert = pyip.inputYesNo("請問需要覆蓋嗎(y,n)?",default="yes",blank=True)
-        if is_covert == "yes":
-            generate_class_scores(num_classes,file_name)
-            print(f"{file_name}已經建立")
-        else:
+        if is_covert == "no":
             generate_and_add_class_scores(num_classes,file_name)
-            print(f"{file_name}已經增加")
-    else:
-        generate_class_scores(num_classes,file_name)
-        print(f"{file_name}已經建立")
+            print(f"{file_name}已經新增")
+            sys.exit()
+    
+    generate_class_scores(num_classes,file_name)
+    print(f"{file_name}已經建立")
