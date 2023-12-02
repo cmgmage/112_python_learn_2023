@@ -90,7 +90,7 @@ if __name__ == "__main__":
             print(f"{file_name}已經建立")
         else:
             generate_and_add_class_scores(num_classes,file_name)
-            print(f"{file_name}已經新增")
+            print(f"{file_name}已經增加")
     else:
         generate_class_scores(num_classes,file_name)
         print(f"{file_name}已經建立")
