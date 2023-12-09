@@ -84,3 +84,7 @@ set 對應資料
 
 [20231111下午課程錄影](https://youtube.com/live/z5NiuQoStRc)
 
+[20231118早上課程錄影](https://youtube.com/live/-K0lWABQmG4)
+
+[20231118下午課程錄影](https://youtube.com/live/moTldRcI0ao)
+
