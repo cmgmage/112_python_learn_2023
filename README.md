@@ -96,7 +96,7 @@ set 對應資料
 
 [20231202下午課程錄影](https://youtube.com/live/jRkzL2OCDh8)
 
-[20231209早上課程錄影]()
+[20231209早上課程錄影](https://youtube.com/live/uX8mXukQTV4)
 
-[20231209下午課程錄影]()
+[20231209下午課程錄影](https://youtube.com/live/tMKWAQEThIk)
 
