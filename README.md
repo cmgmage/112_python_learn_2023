@@ -88,3 +88,15 @@ set 對應資料
 
 [20231118下午課程錄影](https://youtube.com/live/moTldRcI0ao)
 
+[20231125早上課程錄影](https://youtube.com/live/vfnO7daQFgw)
+
+[20231125下午課程錄影](https://youtube.com/live/vNmORGaGJcg)
+
+[20231202早上課程錄影](https://youtube.com/live/rKAcwxJmSIU)
+
+[20231202下午課程錄影](https://youtube.com/live/jRkzL2OCDh8)
+
+[20231209早上課程錄影]()
+
+[20231209下午課程錄影]()
+
